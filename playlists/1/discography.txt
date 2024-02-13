@@ -1,0 +1,30 @@
+Warm,A.L.I.S.O.N
+Space Echo,A.L.I.S.O.N
+Echo Chambers,A.L.I.S.O.N
+Golden Dust,A.L.I.S.O.N
+Omni,A.L.I.S.O.N
+Passenger,A.L.I.S.O.N
+Glow,A.L.I.S.O.N
+Gaze,A.L.I.S.O.N
+Pléiades,A.L.I.S.O.N
+Aether,Virtual Mage
+Align,Voyage
+Close,Foewi
+Crepuscule,Fred Falke
+Dark Prince,Atrey
+Traffic,Foewi
+Descriptor,Foewi
+Hanami,Hagen Feetly
+Resting State 2,HOME
+Resting State 4,HOME
+Resting State 6,HOME
+Resting State 7,HOME
+Resting State 9,HOME
+Resting State 10,HOME
+Resting State 15,HOME
+Resting State 17,HOME
+Resting State 24,HOME
+Resting State 30,HOME
+Resting State 32,HOME
+Resting State 34,HOME
+Resting State 35,HOME
