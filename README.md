@@ -1,6 +1,7 @@
 <p align="center">
-    <img width="250" alt="Achieve Mockup" src="https://github.com/alexstarosta/open-music/assets/110436783/47e10195-6e52-478a-998b-a80fd6a5f4d4">
+    <img height="250" alt="Mockup" src="https://github.com/alexstarosta/open-music/assets/110436783/6c4bdf41-ce94-4239-8b30-e3202a7c60a3">
 </p>
+
 
 <p align="center"><strong>Simple, Sleek, Music Player</strong></p>
 <br/>
